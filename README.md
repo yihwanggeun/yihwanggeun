@@ -1,9 +1,9 @@
-<div align="center">
+
 
 새로운 환경에서 지식을 빠르게 흡수하고 적응할 수 있는 <span style="color:#00BFFF; font-weight:bold;">스펀지 개발자</span>,  
-시스템 소프트웨어 지식을 바탕으로 성능 최적화를 통해 사용자 경험을 극대화하는 개발자 <span style="color:#696969; font-weight:bold;">이황근</span>입니다.
+시스템 소프트웨어 지식을 바탕으로 성능 최적화를 통해 사용자 경험을 극대화하는 개발자 <span style="color:#696969; font-weight:bold;">이황근</span>입니다. 👋
 
-</div>
+
 <div align="center">
 
 **Tech Stack**
