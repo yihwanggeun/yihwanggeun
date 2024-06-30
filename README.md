@@ -1,15 +1,14 @@
-<div align="center" style="font-size: 1.2em; line-height: 1.5em;">
+
 
 <span style="color: #696969;">새로운 환경에서 지식을 빠르게 흡수하고 적응할 수 있는</span> <span style="color: #00BFFF; font-weight: bold;">스펀지 개발자</span>,  
 <span style="color: #696969;">시스템 소프트웨어 지식을 바탕으로 성능 최적화를 통해 사용자 경험을 극대화하는 개발자</span> <span style="font-weight: bold;">이황근</span>입니다. <span>👋</span>
 
-</div>
+
 
 ---
 
-<div align="center">
 
-**Tech Stack**
+***Tech Stack**+
 
 **Language**  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)  
@@ -25,7 +24,6 @@
 
 **📫 Contact 📫**
 
-</div>
 
 <!--
 **yihwanggeun/yihwanggeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
